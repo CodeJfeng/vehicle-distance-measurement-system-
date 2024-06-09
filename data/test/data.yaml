@@ -1,0 +1,5 @@
+train: ../data/test/images
+val: ../data/test/images
+
+nc: 7
+names: ['car', 'truck', 'bus', 'pedestrian', 'bicycle', 'motorcycle','tricycle']

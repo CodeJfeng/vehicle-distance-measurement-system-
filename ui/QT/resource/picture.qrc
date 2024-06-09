@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="下拉">
+    <file>箭头_列表收起.svg</file>
+    <file>箭头_列表展开_o.svg</file>
+    <file>系统.svg</file>
+    <file>circle.svg</file>
+    <file>图片.svg</file>
+    <file>下拉.svg</file>
+  </qresource>
+</RCC>

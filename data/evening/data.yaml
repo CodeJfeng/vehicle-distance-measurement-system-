@@ -1,0 +1,5 @@
+train: ../data/evening/images
+val: ../data/evening/images
+
+nc: 7
+names: ['car', 'truck', 'bus', 'pedestrian', 'bicycle', 'motorcycle','tricycle']
